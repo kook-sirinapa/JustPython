@@ -1,0 +1,15 @@
+message=    "Rabbit, Dog, Cat, Bear"
+result_len=     len(message)
+result_in=  'Dog' in message
+result_digit=   message.isdigit()
+result_upper=   message.upper()
+result_replace= message.replace('Dog', 'Dinosaur')
+result_list=    message.split(', ')
+result_text=    ' '.join(result_list)
+print(result_len) 
+print(result_in)
+print(result_digit)
+print(result_upper)
+print(result_replace)
+print(result_list[0])
+print(result_text)

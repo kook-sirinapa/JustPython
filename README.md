@@ -12,7 +12,7 @@ Python
 		1.8 Pytest  (Python › Testing: Pytest Enabled) for testing
 		1.9 Python Test Explorer for Visual Studio Code extension for testing
 		
-	2. Complete lesion on YouTube #01
+	2. Complete lesion on YouTube #ep-01
         2.1 Data type 
             a. Integer
             b. Float
@@ -30,6 +30,14 @@ Python
             b. module
         2.5 GUI
     
-    3. List #02
-    4. List Combo #03
+    3. List #ep-02
+    4. List Combo #ep-03
+    5. Dictionary #ep-04
+    6. String #ep-05
+    7. Class Object #ep-06
+    8. Object Method #ep-07
+    9. Math #ep-08
+    10. Rabdom
+    11. datetime
+    12. Try except
 
