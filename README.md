@@ -40,4 +40,11 @@ Python
     10. Rabdom
     11. datetime
     12. Try except
+    13. Read file
+    14. Write file
+    15. pip
+    16. Scope
+    16. Lambda
+    17. Map filter
+    18. Zip
 
